@@ -23,7 +23,7 @@ Draw your artwork, feed it live data and define in flowcharting how the data wil
 
 ![technology](images/animated_tech_small.png)
 
-### Examples in draw.io
+### Examples in draw.io guild
 
 <img style="border:0px;margin:0px;float:left;width:300px;height:150px;" src="images/drawio_example1.jpg" />
 <img style="border:0px;margin:0px;float:left;width:300px;height:150px;" src="images/drawio_example2.jpg" />
