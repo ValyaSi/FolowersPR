@@ -2,7 +2,7 @@
 This repository is only for documentation.  
 Star project on [https://github.com/algenty/grafana-flowcharting](https://github.com/algenty/grafana-flowcharting) if you like it.  
 
-## About
+## About it
 Flowcharting is a Grafana plugin. Use it to display complexe diagrams using the online graphing library [draw.io](https://draw.io/) 
 Draw.io can create many types of diagrams :
   * Technical architecture schema (Legacy, Cloud, Azure, AWS, GCP, Kubernetes, Terraform)
