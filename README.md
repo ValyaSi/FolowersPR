@@ -1,4 +1,4 @@
-# Flowcharting for Grafanaerd
+# Flowcharting for Grafanaerd12
 This repository is only for documentation.  .
 Star project on [https://github.com/algenty/grafana-flowcharting](https://github.com/algenty/grafana-flowcharting) if you like it.  
 
