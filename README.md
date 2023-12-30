@@ -1,4 +1,4 @@
-# Flowcharting for Gra
+# Flowcharting for 
 This repository is only for documentation.  .
 Star project on [https://github.com/algenty/grafana-flowcharting](https://github.com/algenty/grafana-flowcharting) if you like it.  
 
